@@ -1,6 +1,6 @@
 # Global Layoffs — Data Cleaning & Exploration (MySQL)
 
-This project focuses on **data cleaning, transformation, and exploratory data analysis (EDA)** using MYSQL, utilising a real dataset from [Kaggle’s 2022 Global Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022).  
+This project focuses on **data cleaning, transformation, and exploratory data analysis (EDA)** using MYSQL, utilising a real dataset from [Kaggle’s Global Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022).  
 The goal is to simulate a real-world data analyst workflow by cleaning messy data, creating reusable staging tables, standardizing fields, and extracting insights using SQL queries that can be used to aid in strategic business decisions.
 
 ---
