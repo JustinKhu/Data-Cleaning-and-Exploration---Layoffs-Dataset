@@ -9,7 +9,7 @@ The goal is to simulate a real-world data analyst workflow by cleaning messy dat
 
 | Category | Details |
 |-----------|----------|
-| **Data Source** | [Kaggle – Layoffs 2022 Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) |
+| **Data Source** | [Kaggle – Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) |
 | **Database** | MySQL 8 |
 | **Skills Practiced** | Data cleaning, standardization, following workplace best practices, date formatting, exploratory SQL, window functions |
 | **Focus Areas** | Company layoffs by month and year, total layoffs over time, top affected companies per year |
