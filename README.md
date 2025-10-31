@@ -33,11 +33,14 @@ The goal is to simulate a real-world data analyst workflow by cleaning messy dat
 
 ## Key Insights 
 
-**1. There was a noticeable increase in layoffs beginning from mid-late 2022 and onwards.** 
+### Layoff Trends Over Time
+Layoffs increased sharply throughout 2022, peaking in early 2023.
+![Rolling Total Layoffs](visualizations/rolling_total_layoffs.png)
 
-**2. The tech industry suffered the most significant amount of layoffs.** 
+### Top Companies by Layoffs 
+The top 5 companies (e.g., Intel, Microsoft, and Amazon) accounted for a large share of total layoffs.
+![Top Companies Layoffs](visualizations/top_companies.png)
 
-**3. A small amount of companies contributed largely to the total amount of layoffs.**
 
 ## Tools Used
 
