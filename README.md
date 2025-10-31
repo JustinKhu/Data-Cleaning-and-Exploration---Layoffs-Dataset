@@ -27,9 +27,17 @@ The goal is to simulate a real-world data analyst workflow by cleaning messy dat
 2. **Perform exploratory SQL analysis**
    - Track layoffs over time (monthly and cumulative totals)  
    - Identify top companies by number of layoffs each year  
-   - Investigate patterns by country and industry  
+   - Investigate any potential patterns  
 
 ---
+
+## Key Insights 
+
+**1. There was a noticeable increase in layoffs beginning from mid-late 2022 and onwards.** 
+
+**2. The tech industry suffered the most significant amount of layoffs.** 
+
+**3. A small amount of companies contributed largely to the total amount of layoffs.**
 
 ## Tools Used
 
