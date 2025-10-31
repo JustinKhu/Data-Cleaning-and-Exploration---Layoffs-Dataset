@@ -33,6 +33,14 @@ Finally, after cleaning the data I used aggregations and CTE's in order to extra
 4. **Top companies by layoffs per year**  
    - Amazon, Meta, and Intel appeared multiple times, showcasing the massive amount of layoffs in the tech/consumer industry.
   
+## Excel Visualizations
+Visualizations were created in Excel to communicate key findings clearly:
+
+| Insight | Visualization Type | File |
+|----------|--------------------|------|
+| Top companies by layoffs | Clustered Column Chart | `visualizations/top_companies.png` |
+
+  
 ## Reflection & Learnings
 Throughout this project, I strengthened my ability to clean and analyze real-world datasets using SQL.  
 Key technical learnings included:
