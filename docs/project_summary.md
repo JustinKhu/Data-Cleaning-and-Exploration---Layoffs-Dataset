@@ -30,3 +30,16 @@ Finally, after cleaning the data I used aggregations and CTE's in order to extra
 3. **The United States accounted for a large majority of the overall layoffs**  
    - This was followed by Europe and Asia, showcasing the large presence of U.S based companies in the dataset.
   
+4. **Top companies by layoffs per year**  
+   - Amazon, Meta, and Intel appeared multiple times, showcasing the massive amount of layoffs in the tech/consumer industry.
+  
+## Reflection & Learnings
+Throughout this project, I strengthened my ability to clean and analyze real-world datasets using SQL.  
+Key technical learnings included:
+
+- Using **CTEs** and **window functions** for complex queries to find valuable information.  
+- The nuances regarding inputting data on different operating systems. 
+- Leveraging Excel to visualize and communicate findings and trends effectively.
+
+Beyond these technical skills, I also improved on how to **structure a data analytics project** for professional presentation on GitHub.  
+In future iterations, I plan to automate this workflow using **Python (Pandas)** and develop **interactive dashboards in Power BI** or **Tableau**.
