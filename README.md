@@ -39,7 +39,7 @@ Layoffs increased sharply throughout 2022, peaking in early 2023.
 
 ### Top Companies by Layoffs 
 The top 5 companies (e.g., Intel, Microsoft, and Amazon) accounted for a large share of total layoffs.
-![Top Companies Layoffs](visualizations/top_companies_layoffs_by_year.png)
+![Top Companies Layoffs](visualizations/top_company_layoffs_by_year.png)
 
 
 ## Tools Used
