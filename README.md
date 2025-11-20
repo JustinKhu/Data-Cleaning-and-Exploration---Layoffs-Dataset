@@ -29,6 +29,7 @@ The goal is to simulate a real-world data analyst workflow by cleaning messy dat
    - Identify top companies by number of layoffs each year  
    - Investigate any potential patterns  
 
+2. **Create basic visualization of trends**
 ---
 
 ## Key Insights 
